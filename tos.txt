@@ -1,0 +1,49 @@
+Credo Token Sale : Terms and Conditions
+Last Updated: June 2, 2017
+Turing Technology, Inc. (Company)
+
+By purchasing Credo tokens (credos), you will be bound by the following terms and conditions.
+
+Purpose and Use
+--
+Credos are intended to function as a unit of exchange in email communication. You understand that use of credos via the BitBounce service will be subject to further terms and conditions.
+
+Rights
+--
+Ownership of credos carries no rights other than the use of them as a unit of exchange for email access via the BitBounce service. In particular, credos do not represent or confer any ownership right or stake, share or security or equivalent rights, or any right to receive future revenue shares, intellectual property rights or any other form of participation in any corporate entity or its property.
+
+Acknowledgment and Assumption of Risks
+--
+You acknowledge and agree that there are substantial risks associated with purchasing, holding, and using credos. These risks include hacking and technological failures in Ethereum or BitBounce that could wipe out token value. By purchasing credos, you acknowledge and assume all associated risks.
+
+Acknowledgment of sufficient research
+--
+You acknowledge that you have performed sufficient research to be informed about credos and all matters relating to cryptographic tokens.
+
+Security
+--
+You are responsible for implementing reasonable measures for securing your credos.
+
+Taxes
+--
+You are responsible for any and all tax compliance in relation to your credos.
+
+Limitation of Liability
+--
+You agree that the Company’s liability relating to any and all concerns will be minimized to the fullest extent permitted by law.
+
+Arbitration
+--
+You agree to settle any and all disputes with the Company via direct negotiation, or via a privately run arbitration process. You hereby forfeit any and all rights to a trial by jury or otherwise.
+
+Governing Law and Venue
+--
+These Terms will be governed and enforced in accordance with the state of Delaware.
+
+Severability
+--
+If any part of these terms is held to be unlawful then that part will be severed from these terms and the rest will remain in effect.
+
+Entire Agreement.
+--
+These terms constitute the entire agreement between you and the Company.
