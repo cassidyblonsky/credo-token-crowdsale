@@ -104,6 +104,7 @@ contract Credo is StandardToken, SafeMath {
     string public constant name = "Credo Token";
     string public constant symbol = "CREDO";
     uint256 public constant decimals = 18;
+    string public version = "1.0";
 
     // Account for ether proceed.
     address public etherProceedsAccount;
