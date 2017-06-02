@@ -117,10 +117,10 @@ contract Credo is StandardToken, SafeMath {
     uint256 public fundingStartBlock;
     uint256 public fundingEndBlock;
     uint256 public constant tokenCreationCap =  1500 * (10**6) * 10**decimals;
-    uint256 public constant tokenCreationMin =  675 * (10**6) * 10**decimals;
+    uint256 public constant tokenCreationMin =  1351 * (10**6) * 10**decimals;
 
     // Setting the exchange rate for the first part of the ICO.
-    uint256 public constant credoEthExchangeRate = 100000;
+    uint256 public constant credoEthExchangeRate = 16500;
 
     // Events for logging refunds and token creation.
     event LogRefund(address indexed _to, uint256 _value);
